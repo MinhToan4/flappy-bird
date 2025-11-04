@@ -1,9 +1,4 @@
-###############################################################################
-### Mock wrapper cho Google MediaPipe hand pose estimation
-### Đây là giải pháp tạm thời cho tương thích Python 3.13.5
-###############################################################################
-
-# Import các thư viện cần thiết
+#### Import các thư viện cần thiết
 import cv2  # Thư viện xử lý hình ảnh
 import numpy as np  # Thư viện xử lý mảng số
 

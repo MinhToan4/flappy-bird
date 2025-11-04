@@ -1,8 +1,3 @@
-###############################################################################
-### Wrapper cho Google MediaPipe hand pose estimation
-### https://github.com/google/mediapipe
-###############################################################################
-
 # Import các thư viện cần thiết
 import cv2  # Thư viện xử lý hình ảnh
 import numpy as np  # Thư viện xử lý mảng số
